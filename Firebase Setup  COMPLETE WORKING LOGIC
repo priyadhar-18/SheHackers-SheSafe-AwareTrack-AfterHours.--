@@ -1,0 +1,6 @@
+IF (current time > user-set time) AND (user outside home)
+→ Tracking ON
+ELSE
+→ Tracking OFF
+
+SOS pressed → Alert sent with live location
